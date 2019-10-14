@@ -1,0 +1,23 @@
+body{
+	font-size: 16px; /*1em*/
+	margin: 0px auto; /*centrado pantalla*/
+	max-width: 1078px; /*cliente*/
+	min-width: 1078px;
+}
+
+#menu li{
+	list-style: none;
+	display: inline-block;
+}
+
+#secc01art01{
+	width: 55%;
+}
+
+#secc01art02{
+	width: 35%;
+}
+
+.derechaLogos{
+	float: right;
+}
