@@ -1,0 +1,160 @@
+body{
+	/*border: 1px solid red;*/
+	font-size: 16px;  /* 1em */
+	margin: 0px auto;
+	max-width: 1800px;
+}
+
+#british{
+	font-size: 40px;
+	font-style: italic;
+}
+
+#commission{
+	font-size: 40px;
+	font-style: italic;
+}
+
+#find{
+	background: #323232;
+	border-radius: 15px;
+	border-width: 2px;
+	color: white;
+	font-weight: bold;
+	height: 32px;
+	width: 160px;
+}
+
+#learn{
+	background: #f1efef;
+	border-color: black;
+	border-radius: 15px;
+	border-width: 2px;
+	font-weight: bold;
+	height: 30px;
+	width: 120px;
+}
+
+#meet{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#secc01{
+}
+
+#secc01 article{
+	display: inline-block;
+	height: 610px;
+	vertical-align: middle;
+}
+
+#secc01art01{
+	background: #f1efef;
+	width: 25%;
+}
+
+#secc01art01 img{
+	height: 610px;
+	position: relative;
+	left: 150px;
+	width: 300px;
+}
+
+#secc01art02{
+	background: #f1efef;
+	margin-left: -5px;
+	width: 36%;
+}
+
+#secc01art02 p{
+	font-size: 20px;
+}
+
+#secc01art03{
+	background: #323232;
+	color: white;
+	margin-left: -5px;
+	width: 37%;
+}
+
+#secc01art03 p{
+	font-size: 20px;
+}
+
+#secc02{
+
+}
+
+#secc02 article{
+	display: inline-block;
+	height: 450px;
+	vertical-align: middle;
+}
+
+#secc02art01{
+	background: #56aced;
+	width: 15%;
+}
+
+#secc02art02{
+	background: #56aced;
+	color: white;
+	font-size: 25px;
+	font-style: italic;
+	margin-left: -5px;
+	width: 30%; 
+}
+
+#secc02art03{
+	background: #d2d9e0;
+	margin-left: -5px;
+	width: 25%;
+}
+
+#secc02art04{
+	background: gray;
+	color: white;
+	margin-left: -5px;
+	width: 28%;
+}
+
+#question{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#touch{
+	background: #d2d9e0;
+	border-color: black;
+	border-width: 2px;
+	color: black;
+	border-radius: 15px;
+	font-weight: bold;
+	height: 30px;
+	width: 130px;
+}
+
+#twitter{
+	position: relative;
+	left: 200px;
+	top: 120px;
+	width: 70px;
+}
+
+#zoe{
+	background: gray;
+	border-width: 2px;
+	border-color: white;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	height: 30px;
+	width: 80px;
+}
+
+.centrar{
+	margin-top: 150px;
+	text-align: center;
+}
+
