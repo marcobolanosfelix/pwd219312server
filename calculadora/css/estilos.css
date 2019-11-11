@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	margin-top: 150px;
 }
@@ -6,16 +7,30 @@ button{
 	width: 30px;
 }
 
+=======
+button{
+	width: 30px;
+}
+>>>>>>> 35c93aed27d74a5d98dc77014a014d8c77361a14
 input{
 	text-align: right;
 	width: 90px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 35c93aed27d74a5d98dc77014a014d8c77361a14
 table{
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
 }
+<<<<<<< HEAD
 
 td{
 	text-align: center;
 }
+=======
+td{
+	text-align: center;
+}
+>>>>>>> 35c93aed27d74a5d98dc77014a014d8c77361a14
