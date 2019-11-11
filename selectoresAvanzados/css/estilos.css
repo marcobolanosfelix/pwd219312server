@@ -80,5 +80,5 @@ li:nth-last-child(2){
 
 p:first-line{
 	color: red;
-	font-weight: bold;
+	font-weight: bold; 
 }

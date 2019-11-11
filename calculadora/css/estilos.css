@@ -1,0 +1,21 @@
+body{
+	margin-top: 150px;
+}
+
+button{
+	width: 30px;
+}
+
+input{
+	text-align: right;
+	width: 90px;
+}
+
+table{
+	border-radius: 5px;
+	box-shadow: 5px 5px black;
+}
+
+td{
+	text-align: center;
+}
